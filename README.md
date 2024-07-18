@@ -18,7 +18,7 @@
 ## Langkah-langkah Instalasi
 1. Buka terminal editor dan ketikan
 ```js
-https://github.com/tzygak07/web-porto
+git clone https://github.com/tzygak07/web-porto
 ```
 
 2. Setelah itu masuk ke direktori project dan ketikkan
